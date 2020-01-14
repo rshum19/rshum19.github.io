@@ -24,7 +24,7 @@ A clean, single column blog template built for jekyll
 ## Credits
 This CV website is modification/combination of the following
 * [Jon Barron's website ](https://github.com/jonbarron/website)
-* Leonid Keselman's website](https://github.com/leonidk/new_website)
+* [Leonid Keselman's website](https://github.com/leonidk/new_website)
 * [Xuning Yang's website](https://github.com/xuningy/xuningy.github.io)
 
 ## License
