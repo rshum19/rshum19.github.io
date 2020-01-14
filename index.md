@@ -4,9 +4,9 @@ layout: default
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-​I am a Ph.D. student at the [Robotics Institute](https://www.ri.cmu.edu/), part of the [School of Computer Science]() at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Ralph Hollis](http://www.cs.cmu.edu/afs/cs/user/rhollis/www/home.html) at the [Microdynamic Systems Laboratory (MSL)](http://www.msl.ri.cmu.edu). I work on whole-body optimal control for dynamic mobile manipulation. I use the CMU ballbot as my test platform for which I built a pair of 7DOF lightweight arms. 
+​I am a Ph.D. student at the [Robotics Institute](https://www.ri.cmu.edu/), part of the [School of Computer Science]() at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Ralph Hollis](http://www.cs.cmu.edu/afs/cs/user/rhollis/www/home.html) at the [Microdynamic Systems Laboratory (MSL)](http://www.msl.ri.cmu.edu). I work on whole-body optimal control for dynamic mobile manipulation. I use the CMU ballbot as my test platform for which I built a pair of 7DOF lightweight arms. 
 
-I obtained my M.S. in Robotics at CMU advised by Prof. Koushil Sreenath. I obtained my B.S. in Mechanical Engineering and B.S. in Aerospace Engineering with minors in Mathematics and Multidisciplinary Design from the University of Michigan, Ann Arbor. 
+I obtained my M.S. in Robotics at CMU advised by [Prof. Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/). I obtained my B.S. in Mechanical Engineering and B.S. in Aerospace Engineering with minors in Mathematics and Multidisciplinary Design from the University of Michigan, Ann Arbor. 
 
 <center> You can contact me at <a href="">rshum@cmu.edu</a></center>
 

@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "High Impact Resistant Robotic Leg"
-date:   2014-09-01 22:21:59 +00:00
+title:  "Design and Analysis of a Biped Leg to Survive High-Impact Falls"
+date:   2016-06-01 22:21:59 +00:00
 image: images/Biped_005.JPG
 categories: research
 author: "Roberto Shu"
 authors: "<strong>Roberto Shu</strong>, Koushil Sreenath"
 venue: "Carnegie Mellon University"
-video: "https://www.youtube.com/watch?v=gIOl2Cn7EIc"
+video: 
 arxiv: 
 slides: 
 code: 
+pdf: documents/rshu_MS_Thesis_2016.pdf
 ---
 
 Humans have amazing capabilites to jump of 3 story high and survive with no injuries. Legged robots are very far from realizing similar manuevers. We have designed a complete monoped to test our controller. Usually, transmission and motors are damaged due to the high impact forces. To mitigate this issue we propose a two-fold solution. 
