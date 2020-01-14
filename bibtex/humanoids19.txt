@@ -1,0 +1,12 @@
+@INPROCEEDINGS{shuHUMANOIDS19, 
+author={R. {Shu} and R. {Hollis}}, 
+booktitle={2019 IEEE-RAS 19th International Conference on Humanoid Robots (Humanoids)}, 
+title={Development of a Humanoid Dual Arm System for a Single Spherical Wheeled Balancing Mobile Robot}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={}, 
+keywords={}, 
+doi={}, 
+ISSN={}, 
+month={Nov},}

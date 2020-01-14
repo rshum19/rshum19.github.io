@@ -1,0 +1,10 @@
+@article{li2015desktop,
+  title={Desktop aligner for fabrication of multilayer microfluidic devices},
+  author={Li, Xiang and Yu, Zeta Tak For and Geraldo, Dalton and Weng, Shinuo and Alve, Nitesh and Dun, Wu and Kini, Akshay and Patel, Karan and Shu, Roberto and Zhang, Feng and others},
+  journal={Review of Scientific Instruments},
+  volume={86},
+  number={7},
+  pages={075008},
+  year={2015},
+  publisher={AIP Publishing}
+}

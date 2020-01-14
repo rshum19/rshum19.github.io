@@ -1,0 +1,10 @@
+@article{shuDW2015,
+  title={On the utility of active damping leg for safe landing from a free fall.},
+  author={Shu, Roberto and Siravuru, Avinash and Sreenath, Koushil},
+  journal={Dynamic Walking},
+  volume={},
+  number={},
+  pages={},
+  year={2015},
+  publisher={}
+}

@@ -1,0 +1,12 @@
+@INPROCEEDINGS{ShuICRA2016, 
+author={R. {Shu} and A. {Siravuru} and A. {Rai} and T. {Dear} and K. {Sreenath} and H. {Choset}}, 
+booktitle={2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+title={Optimal control for geometric motion planning of a robot diver}, 
+year={2016}, 
+volume={}, 
+number={}, 
+pages={4780-4785}, 
+keywords={inertial navigation;mobile robots;optimal control;path planning;position control;robot dynamics;geometric motion planning;robot diver;inertial reorientation;airborne articulated body;dynamic robot;safe landing;aggressive large angle correction maneuver;somersault;human diver;planar three link robot;DiverBot;gravity-free scenario;joint angles;body orientation;system dynamics reduction;optimal control policy;configuration space reduction;diving maneuver;Optimal control;Shape;Optimization;Robot kinematics;Dynamics;Numerical models}, 
+doi={10.1109/IROS.2016.7759702}, 
+ISSN={2153-0866}, 
+month={Oct},}

@@ -1,0 +1,12 @@
+@INPROCEEDINGS{SonnleitnerICRA19, 
+author={F. {Sonnleitner} and R. {Shu} and R. L. {Hollis}}, 
+booktitle={2019 International Conference on Robotics and Automation (ICRA)}, 
+title={The Mechanics and Control of Leaning to Lift Heavy Objects with a Dynamically Stable Mobile Robot}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={9264-9270}, 
+keywords={feedback;manipulators;mobile robots;motion control;robot dynamics;wheels;two-wheeled dynamically stable mobile manipulator robots;heavy object;ballbot;feedback control laws;dynamically stable mobile robot;spherical-wheel robots;unknown mass;quasistatic center of mass computation;feedforward control laws;mass 15.0 kg;mass 10.0 kg;Mobile robots;Task analysis;Payloads;Humanoid robots;Manipulators;Navigation}, 
+doi={10.1109/ICRA.2019.8793620}, 
+ISSN={1050-4729}, 
+month={May},}

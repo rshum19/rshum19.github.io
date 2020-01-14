@@ -1,0 +1,31 @@
+title: Roberto Shu
+author: Roberto Shu
+subtitle: rshum at cmu dot edu
+
+url: "http://robertoshu.com"
+baseurl:
+
+google_analytics: U
+
+footer_url: ""
+footer_text: "Last Updated: January 2020"
+
+profile-picture: images/IMG_2451.JPEG
+favicon_location:
+
+permalink: /:categories/:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "CV"
+   link: "/rshum_cv_2020.pdf"
+ - name: "Blog"
+   link: "/blog"
+ - name: "Github"
+   link: "https://github.com/rshum19"
+ - name: "Google Scholars"
+   link: "https://scholar.google.com/citations?user=x5rZl6MAAAAJ&hl=en&oi=ao"
+ - name: "LinkedIn"
+   link: "https://linkedin.com/in/robertoshu"
