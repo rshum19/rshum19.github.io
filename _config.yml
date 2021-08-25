@@ -20,9 +20,9 @@ sass:
 
 navbar:
  - name: "CV"
-   link: "/rshum_cv_2020.pdf"
- - name: "Blog"
-   link: "/blog"
+   link: "/cv/rshum_cv_2021.pdf"
+# - name: "Blog"
+#   link: "/blog"
  - name: "Github"
    link: "https://github.com/rshum19"
  - name: "Google Scholars"
