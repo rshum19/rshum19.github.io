@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Momentum based Whole-Body Optimal Planning for a Single- Spherical-Wheeled Balancing Mobile Manipulator"
-date:   2019-10-15 22:21:59 +00:00
+date:   2021-05-1 22:21:59 +00:00
 image: images/GIF/iros2021.gif
 categories: research
 author: "Roberto Shu"
