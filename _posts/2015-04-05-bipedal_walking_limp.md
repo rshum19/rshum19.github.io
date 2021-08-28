@@ -2,7 +2,7 @@
 layout: post
 title:  "Bipedal Center of Mass Trajectory Optimization using LIPM"
 date:   2015-09-06 22:21:59 +00:00
-image: images/GIF/estratos2015.gif
+image: images/COM_TO_LIMP.jpg
 categories: other
 author: "Roberto Shu"
 authors: "<strong>Roberto Shu</strong>, Javier Chauvin"
